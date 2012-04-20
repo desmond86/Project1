@@ -1,0 +1,33 @@
+Sunday 15 April 2012
+20.00-22.00
+Read IBM Model 1 and 2
+
+
+
+Wednesday 18 April 2012
+12.00-14.00
+Read phrase extraction algorithm
+
+
+
+
+Thursday 19 April 2012
+16.00-19.00
+Try to understand phrase extraction algorithm
+
+21.00-21.30
+Take a look at the errata
+
+21.30-23.00
+fix the extract function
+
+23.00-24.00
+fix the code (consistency checking)
+
+Friday 20 April 2012
+13.00-14.00
+setting up Github
+
+14.00-16.00
+checking the code, remove debugging stuff
+
