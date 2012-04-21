@@ -24,6 +24,8 @@ fix the extract function
 23.00-24.00
 fix the code (consistency checking)
 
+
+
 Friday 20 April 2012
 13.00-14.00
 setting up Github
@@ -31,3 +33,12 @@ setting up Github
 14.00-16.00
 checking the code, remove debugging stuff
 
+21.30-23.30
+add print function 
+
+
+
+
+Saturday 21 April 2012
+10.30-12.15
+add documentation in the program
