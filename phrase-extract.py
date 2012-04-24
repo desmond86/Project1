@@ -79,7 +79,7 @@ def find_phrase(e, f, wa):
     #loop
     for e_start in range(0, len(words_e)):
         for e_end in range(e_start, len(words_e)):
-            (f_start, f_end) = (len(words_f)-1, 0)
+            (f_start, f_end) = (len(words_f)-1, -1)
 
             for (e,f) in word_alignment:
                 if e_start <= e <= e_end:
